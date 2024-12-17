@@ -1,4 +1,4 @@
-Repository Description
+*Repository Description*
 
 This repository is called "first writing attempt " and is intended for instructional purposes as part of a hands-on college course. 
 It serves as a platform for experimenting with various development tools and programming languages. 
